@@ -1,3 +1,22 @@
-### SMS Based Quiz
+# SMS-Based Quiz Campaign
 
-This project was the initial version of an old sms based quiz campaign. Users entered "START QUIZ" to start and "STOP QUIZ" to stop the quiz and "QUIZ A" or "QUIZ B" to select answers and send that to a shortcode. The configuration of shortcode related things for sms are not in scope of this project. Requirement was: user registration, deregistration, socre ,validation and user activity logging. Techonoogies used: PHP and MySQL. 
+This project represents the initial version of an SMS-based quiz campaign. Users interacted with the system by sending specific commands via SMS. For instance, they could start the quiz by texting "START QUIZ" and stop it with "STOP QUIZ." To select answers, users would send either "QUIZ A" or "QUIZ B" to a designated shortcode.
+
+## Key Functionalities
+
+1. **User Registration and Deregistration**
+   - Users could register to participate in the quiz campaign.
+   - Deregistration was also supported.
+
+2. **Scoring and Validation**
+   - The system tracked user scores based on their quiz responses.
+   - Answers were validated to ensure accuracy.
+
+3. **User Activity Logging**
+   - User interactions and activities were logged for analysis.
+
+## Technologies Used
+
+- PHP
+- MySQL
+
