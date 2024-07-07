@@ -4,7 +4,7 @@
 
 - **User Registration and Deregistration**: Users could register to participate in the quiz campaign and deregister as needed.
 - **Scoring and Validation**: The system tracked user scores and validated answers for accuracy.
-- **User Activity Logging**: All user interactions and activities were logged for analysis.
+- **User Activity Logging**: User interactions and activities were logged in the database.
 
 ## Technologies Used
 
